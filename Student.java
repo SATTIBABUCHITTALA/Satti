@@ -10,7 +10,10 @@ public class Student{
 	int stdId;
 	String emailId;
 	
-	
+	public void doProcess(){
+
+
+	}
 	int   hello(int id) {
 		stdId=id;
 		System.out.println("Hello Aarya"+id);
